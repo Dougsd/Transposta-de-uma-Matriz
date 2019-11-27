@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574881773 source:c:\users\doug\desktop\t\main.c
+	<stdio.h>
+	<stdlib.h>
+	"def.h"
+
+1574884891 source:c:\users\doug\desktop\t\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"def.h"
+
+1574885008 c:\users\doug\desktop\t\def.h
+
